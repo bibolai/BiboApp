@@ -1,14 +1,14 @@
 # BiboApp
 
 couple lines of code for Mongo Atlas in NodeJS<br>
-Notes:
-NodeJS: single thread
-        npm dependencies, package.json
-        No Blocking I/O
-        asynchronous event
-        Real time application
-Java:   Maven, POM file 
-        handles complex CPU work
+Notes:<bt>
+NodeJS: single thread<br>
+        npm dependencies, package.json<br>
+        No Blocking I/O<br>
+        asynchronous event<br>
+        Real time application <br>
+Java:   Maven, POM file <br>
+        handles complex CPU work<br>
         others of course.....
         
         
